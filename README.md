@@ -24,7 +24,7 @@ I am an electrical & electronics engineering student who loves to work in areas 
 
 <p align="left">
   <a href="https://www.github.com/AlpBora" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/alp-bora-kirte-7453341a4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/alpborakirte/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://kaggle.com/alpborakirte" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alpborakirte" height="32" width="32" /></a>
 </p>
 
